@@ -217,9 +217,9 @@ make clean
 
 ---
 
-### For Further Information regarding set-up, refer:
+### For Further Information regarding set-up, refer: [![installation-setup](Screenshots/Installation/updates.png)](Screenshots/Installation/)
 
-![installation-setup](Screenshots/Installations)
+*Click the image above to view all installation screenshots.*
 
 
 ## 3. Demo with Screenshots
