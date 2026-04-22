@@ -219,7 +219,7 @@ make clean
 
 ### For Further Information regarding set-up, refer:
 
-![installation-setup](boilerplate/Screenshots/Installations)
+![installation-setup](Screenshots/Installations)
 
 
 ## 3. Demo with Screenshots
@@ -284,7 +284,7 @@ make clean
 
 > `dmesg | grep container_monitor` output showing the `[container_monitor] SOFT LIMIT` warning.
 
-![screenshot-5-soft-hard](Screenshot/soft-hard.png)
+![screenshot-5-soft-hard](Screenshots/soft-hard.png)
 
 ---
 
@@ -292,7 +292,7 @@ make clean
 
 > `dmesg | grep container_monitor` showing the `[container_monitor] HARD LIMIT` kill event and ps output reflecting the container's final state as `killed` with reason `hard_limit_killed`.
 
-![screenshot-6-soft-hard](Screenshot/soft-hard.png)
+![screenshot-6-soft-hard](Screenshots/soft-hard.png)
 
 ---
 
